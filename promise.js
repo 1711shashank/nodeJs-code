@@ -1,4 +1,3 @@
-
 //Promise
 
 const myPromise = new Promise((res, rej) => {
